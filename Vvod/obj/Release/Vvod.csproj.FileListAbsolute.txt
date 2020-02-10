@@ -1,0 +1,30 @@
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Release\Vvod.csprojResolveAssemblyReference.cache
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Release\Vvod.FormVvod.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Release\Vvod.FullAnalysis.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Release\Vvod.Properties.Resources.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Release\Vvod.csproj.GenerateResource.Cache
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\bin\Release\TextAnalysis.exe.config
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\bin\Release\TextAnalysis.exe
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\bin\Release\TextAnalysis.pdb
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Release\TextAnalysis.exe
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Release\TextAnalysis.pdb
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\bin\Release\TextAnalysis.exe.config
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Release\TextAnalysis.exe
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Release\TextAnalysis.pdb
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\bin\Release\TextAnalysis.exe
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\bin\Release\TextAnalysis.pdb
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Release\Vvod.csprojResolveAssemblyReference.cache
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Release\Vvod.FormVvod.resources
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Release\Vvod.FullAnalysis.resources
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Release\Vvod.Properties.Resources.resources
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Release\Vvod.csproj.GenerateResource.Cache
+C:\спасти\6 семестр\Стабильный билд\Vvod\bin\Release\TextAnalysis.exe.config
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Release\TextAnalysis.exe
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Release\TextAnalysis.pdb
+C:\спасти\6 семестр\Стабильный билд\Vvod\bin\Release\TextAnalysis.exe
+C:\спасти\6 семестр\Стабильный билд\Vvod\bin\Release\TextAnalysis.pdb
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Release\Vvod.csprojResolveAssemblyReference.cache
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Release\Vvod.FormVvod.resources
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Release\Vvod.FullAnalysis.resources
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Release\Vvod.Properties.Resources.resources
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Release\Vvod.csproj.GenerateResource.Cache

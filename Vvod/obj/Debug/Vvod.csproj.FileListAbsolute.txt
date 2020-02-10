@@ -1,0 +1,111 @@
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\bin\Debug\Vvod.exe.config
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\bin\Debug\Vvod.exe
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\bin\Debug\Vvod.pdb
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.csprojResolveAssemblyReference.cache
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.FormVvod.resources
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.exe
+c:\users\галина\documents\visual studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.pdb
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\Vvod\Vvod\bin\Debug\Vvod.exe.config
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\Vvod\Vvod\bin\Debug\Vvod.exe
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\Vvod\Vvod\bin\Debug\Vvod.pdb
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.FormVvod.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.exe
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\Vvod\Vvod\obj\Debug\Vvod.pdb
+C:\Users\Галина\Desktop\ИНСТИТУТ\ООП\Vvod\Vvod\bin\Debug\Vvod.exe.config
+C:\Users\Галина\Desktop\ИНСТИТУТ\ООП\Vvod\Vvod\obj\Debug\Vvod.exe
+C:\Users\Галина\Desktop\ИНСТИТУТ\ООП\Vvod\Vvod\obj\Debug\Vvod.pdb
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ООП\Vvod\Vvod\bin\Debug\Vvod.exe.config
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ООП\Vvod\Vvod\obj\Debug\Vvod.exe
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ООП\Vvod\Vvod\obj\Debug\Vvod.pdb
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod1\Vvod\bin\Debug\Vvod.exe.config
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod1\Vvod\obj\Debug\Vvod.exe
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod1\Vvod\obj\Debug\Vvod.pdb
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod1\Vvod\bin\Debug\Vvod.exe
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod1\Vvod\bin\Debug\Vvod.pdb
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod1\Vvod\obj\Debug\Vvod.FormVvod.resources
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod1\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod1\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod2\Vvod\bin\Debug\Vvod.exe.config
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod2\Vvod\obj\Debug\Vvod.exe
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod2\Vvod\obj\Debug\Vvod.pdb
+C:\Users\Svetka\Desktop\Vvod2\Vvod\bin\Debug\Vvod.exe.config
+C:\Users\Svetka\Desktop\Vvod2\Vvod\obj\Debug\Vvod.exe
+C:\Users\Svetka\Desktop\Vvod2\Vvod\obj\Debug\Vvod.pdb
+C:\Users\Svetka\Desktop\Vvod2\Vvod\bin\Debug\Vvod.exe
+C:\Users\Svetka\Desktop\Vvod2\Vvod\bin\Debug\Vvod.pdb
+C:\Users\Svetka\Desktop\Vvod2\Vvod\obj\Debug\Vvod.csprojResolveAssemblyReference.cache
+C:\Users\Svetka\Desktop\Vvod2\Vvod\obj\Debug\Vvod.FormVvod.resources
+C:\Users\Svetka\Desktop\Vvod2\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+C:\Users\Svetka\Desktop\Vvod2\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\bin\Debug\Vvod.exe.config
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\obj\Debug\Vvod.exe
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\obj\Debug\Vvod.pdb
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\bin\Debug\Vvod.exe
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\bin\Debug\Vvod.pdb
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\obj\Debug\Vvod.csprojResolveAssemblyReference.cache
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\obj\Debug\Vvod.FormVvod.resources
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+c:\Documents and Settings\Галина\Desktop\ИНСТИТУТ\ПО\Vvod3\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\bin\Debug\Vvod.exe.config
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\obj\Debug\Vvod.exe
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\obj\Debug\Vvod.pdb
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\bin\Debug\Vvod.exe
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\bin\Debug\Vvod.pdb
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\obj\Debug\Vvod.csprojResolveAssemblyReference.cache
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\obj\Debug\Vvod.FormVvod.resources
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+C:\Users\Valentin.DESKTOP-2TMKITJ\Desktop\ЖЕНЕК\Vvod3\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\bin\Debug\Vvod.exe.config
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\obj\Debug\Vvod.exe
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\obj\Debug\Vvod.pdb
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\bin\Debug\Vvod.exe
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\bin\Debug\Vvod.pdb
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\obj\Debug\Vvod.csprojResolveAssemblyReference.cache
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\obj\Debug\Vvod.FormVvod.resources
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+C:\Users\Евгений Сироткин\Downloads\Vvod3\Vvod\obj\Debug\Vvod.FullAnalysis.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Debug\Vvod.csprojResolveAssemblyReference.cache
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Debug\Vvod.FormVvod.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Debug\Vvod.FullAnalysis.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\bin\Debug\TextAnalysis.exe.config
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\bin\Debug\TextAnalysis.exe
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\bin\Debug\TextAnalysis.pdb
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Debug\TextAnalysis.exe
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Debug\TextAnalysis.pdb
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\bin\Debug\TextAnalysis.exe.config
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Debug\TextAnalysis.exe
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Debug\TextAnalysis.pdb
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\bin\Debug\TextAnalysis.exe
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\bin\Debug\TextAnalysis.pdb
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Debug\Vvod.csprojResolveAssemblyReference.cache
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Debug\Vvod.FormVvod.resources
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Debug\Vvod.FullAnalysis.resources
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+C:\Users\Wolf2\Desktop\Стабильный билд\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+C:\спасти\6 семестр\Стабильный билд\Vvod\bin\Debug\TextAnalysis.exe.config
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Debug\TextAnalysis.exe
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Debug\TextAnalysis.pdb
+C:\спасти\6 семестр\Стабильный билд\Vvod\bin\Debug\TextAnalysis.exe
+C:\спасти\6 семестр\Стабильный билд\Vvod\bin\Debug\TextAnalysis.pdb
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.csprojResolveAssemblyReference.cache
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.FormVvod.resources
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.FullAnalysis.resources
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+C:\спасти\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.csproj.GenerateResource.Cache
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\bin\Debug\TextAnalysis.exe.config
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\bin\Debug\TextAnalysis.exe
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\bin\Debug\TextAnalysis.pdb
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.FormVvod.resources
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.FullAnalysis.resources
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.Properties.Resources.resources
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\obj\Debug\Vvod.csproj.GenerateResource.cache
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\obj\Debug\TextAnalysis.exe
+C:\Users\Valentin\Desktop\6 семестр\Стабильный билд\Vvod\obj\Debug\TextAnalysis.pdb

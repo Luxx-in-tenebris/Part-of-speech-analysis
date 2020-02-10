@@ -1,0 +1,7 @@
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\bin\Flat\Vvod.exe.config
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\bin\Flat\Vvod.exe
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Flat\Vvod.FormVvod.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Flat\Vvod.FullAnalysis.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Flat\Vvod.Properties.Resources.resources
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Flat\Vvod.csproj.GenerateResource.Cache
+C:\Users\Wolf2\Desktop\Vvod3\Vvod\obj\Flat\Vvod.exe
